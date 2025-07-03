@@ -10,5 +10,5 @@ class Config(object):
     ADMIN_ID = "7226919864"
     DB_URL = "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
     LOG_CHANNEL = "-1002389882039"
-    USERLINK = "Autouploderxbot"
+    USERLINK = "https://t.me/sahabji077"
     TUTORIAL_VIDEO = "https://t.me/c/2667640375/1350"
