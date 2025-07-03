@@ -4,6 +4,8 @@
 
 ## Code Write By @ItsMeMaster
 
+https://dashboard.heroku.com/new-app?template=https://github.com/mohit01818/autouploder
+
 # AppxAutoUploader Telegram Bot
 
 A powerful Telegram bot designed to automatically manage and update class materials from ClassX platform. The bot handles automatic daily updates, file management, and forum organization for educational content.
