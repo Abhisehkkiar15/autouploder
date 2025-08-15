@@ -14,4 +14,5 @@ PyJWT
 m3u8
 psutil
 httpx
+gunicorn
 Pillow
