@@ -1,5 +1,7 @@
-xmltodict 
-requests 
+flask
+gunicorn
+xmltodict
+requests
 pycryptodome
 aiofiles
 aiohttp
@@ -14,5 +16,4 @@ PyJWT
 m3u8
 psutil
 httpx
-gunicorn
 Pillow
