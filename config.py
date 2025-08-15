@@ -4,7 +4,7 @@ import os
 
 class Config(object):
     BOT_TOKEN = "8473234829:AAEKLZbZU-uRY7LQ7JzE600xe4APg0uSSvI"
-    DB_NAME = "lund lelle"
+    DB_NAME = "lund_lelle"
     API_ID = "24037760"
     API_HASH = "dccc3070f1c12ab155011f14c3d6ae6a"
     ADMIN_ID = "7290128282"
@@ -12,5 +12,6 @@ class Config(object):
     LOG_CHANNEL = "-1002866717284"
     USERLINK = "https://t.me/sanam569"
     TUTORIAL_VIDEO = "https://t.me/c/2667640375/1350"
+
 
 
